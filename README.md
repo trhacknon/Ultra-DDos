@@ -21,7 +21,7 @@
 
 ---
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/Ultra-DDos/blob/main/LICENSE).
+> Je ne suis pas responsable de tes actions. En téléchargeant un logiciel à partir de ce référentiel, vous acceptez la licence . [License](https://github.com/trhacknon/Ultra-DDos/blob/main/LICENSE).
 
 ----
 
@@ -33,7 +33,7 @@
 * `apt install python`
 * `apt install python2`
 * `apt install python3`
-* `git clone https://github.com/mishakorzik/Ultra-DDos`
+* `git clone https://github.com/trhacknon/Ultra-DDos`
 * `pip3 install requests`
 
 
@@ -90,9 +90,8 @@ Package: 154 MB
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
-
+###### L'article est de nature recherche. Il s'adresse aux spécialistes de la sécurité et à ceux qui vont le devenir. Lors de sa rédaction, des bases de données publiques ont été utilisées. Ni les éditeurs ni l'auteur ne sont responsables de l'utilisation contraire à l'éthique de l'une des informations mentionnées ici. Équipe: trhacknon
 ## Supporters
-[![Stargazers repo roster for @mishakorzik/Ultra-DDos](https://reporoster.com/stars/mishakorzik/Ultra-DDos)](https://github.com/mishakorzik/Ultra-DDos/stargazers)
-[![Forkers repo roster for @mishakorzik/Ultra-DDos](https://reporoster.com/forks/mishakorzik/Ultra-DDos)](https://github.com/mishakorzik/Ultra-DDos/members)
+[![Stargazers repo roster for @trhacknon/Ultra-DDos](https://reporoster.com/stars/trhacknon/Ultra-DDos)](https://github.com/trhacknon/Ultra-DDos/stargazers)
+[![Forkers repo roster for @trhacknon/Ultra-DDos](https://reporoster.com/forks/trhacknon/Ultra-DDos)](https://github.com/trhacknon/Ultra-DDos/members)
 
